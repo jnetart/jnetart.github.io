@@ -41,6 +41,10 @@ a:hover {
     }
 }
 
+.summary ul {
+    text-align: center;
+    list-style: none;
+}
 
 .experiences,
 .internships {
